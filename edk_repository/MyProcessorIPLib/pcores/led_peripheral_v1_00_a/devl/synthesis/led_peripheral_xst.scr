@@ -1,0 +1,12 @@
+run
+-opt_level 2
+-opt_mode speed
+-ifmt mixed
+-ifn "C:\Users\C16Sabin.Park\Documents\Classes\Semester_6\ECE_383\MicroBlaze_Projects_v2\edk_repository\MyProcessorIPLib\pcores\led_peripheral_v1_00_a\devl\synthesis\led_peripheral_xst.prj"
+-top led_peripheral
+-p virtex6
+-ofn "C:\Users\C16Sabin.Park\Documents\Classes\Semester_6\ECE_383\MicroBlaze_Projects_v2\edk_repository\MyProcessorIPLib\pcores\led_peripheral_v1_00_a\devl\synthesis\led_peripheral_xst.ngc"
+-iobuf NO
+-rtlview YES
+-hierarchy_separator /
+-work_lib led_peripheral_v1_00_a

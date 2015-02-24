@@ -1,0 +1,9 @@
+-batch 
+-create led_peripheral 
+-ver 1.00.a 
+-dir "C:\Users\C16Sabin.Park\Documents\Classes\Semester_6\ECE_383\MicroBlaze_Projects_v2\edk_repository\MyProcessorIPLib" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 8 
+-xps 
+-ise 
